@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del modulo 2 del Precourse de henry
+Fernando Evers 
+Este es una prueba de como crear un repositorio y clonarlo desde github en mi computador 
